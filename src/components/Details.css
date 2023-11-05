@@ -35,3 +35,8 @@
   .stat-item {
     padding-left: 20px;
   }
+
+  .square-img {
+    width: 160px;
+    height: 160px;
+  }

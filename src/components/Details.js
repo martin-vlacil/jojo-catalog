@@ -11,7 +11,7 @@ export default function Details({pokemon}) {
             <h2>{capitalizeFirstLetter(pokemon.name)}</h2>
             <div className = "info-container">
                 <div className = "image-container">
-                    <img src = {pokemon.sprites.front_default} alt = {pokemon.name} />
+                    <img className = "square-img" src = {pokemon.sprites.front_default} alt = {pokemon.name} />
                 </div>
                 <div className = "text-container">
                     <p><strong>Type(s): </strong>{pokemon.types.map(type => type.type.name).join(", ")}</p>
