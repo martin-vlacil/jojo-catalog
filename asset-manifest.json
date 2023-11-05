@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jojo-catalog/static/css/main.46d9a68a.css",
-    "main.js": "/jojo-catalog/static/js/main.38efbde5.js",
-    "static/js/787.3e26b379.chunk.js": "/jojo-catalog/static/js/787.3e26b379.chunk.js",
-    "index.html": "/jojo-catalog/index.html",
-    "main.46d9a68a.css.map": "/jojo-catalog/static/css/main.46d9a68a.css.map",
-    "main.38efbde5.js.map": "/jojo-catalog/static/js/main.38efbde5.js.map",
-    "787.3e26b379.chunk.js.map": "/jojo-catalog/static/js/787.3e26b379.chunk.js.map"
+    "main.css": "/pokemon-catalog/static/css/main.46d9a68a.css",
+    "main.js": "/pokemon-catalog/static/js/main.e2e10eee.js",
+    "static/js/787.c4ffbf66.chunk.js": "/pokemon-catalog/static/js/787.c4ffbf66.chunk.js",
+    "index.html": "/pokemon-catalog/index.html",
+    "main.46d9a68a.css.map": "/pokemon-catalog/static/css/main.46d9a68a.css.map",
+    "main.e2e10eee.js.map": "/pokemon-catalog/static/js/main.e2e10eee.js.map",
+    "787.c4ffbf66.chunk.js.map": "/pokemon-catalog/static/js/787.c4ffbf66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46d9a68a.css",
-    "static/js/main.38efbde5.js"
+    "static/js/main.e2e10eee.js"
   ]
 }
