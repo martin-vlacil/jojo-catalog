@@ -1,0 +1,18 @@
+.card {
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    transition: border-color 0.3s, background-color 0.3s;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card:hover {
+    border-color: red; /* Change border color to red on hover */
+    background-color: #f0f0f0; /* Change background color on hover */
+  }
+  
